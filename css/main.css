@@ -160,6 +160,7 @@ span {
     float: left;
     text-align: center;
     background-color: bisque;
+    display: none;
 }
 
 .fizz {
@@ -199,6 +200,10 @@ input {
     border: 1px solid #CCC;
     height: 30px;
     margin: 5px;
+}
+
+.error {
+    color: firebrick;
 }
 /* ==========================================================================
    Media Queries
